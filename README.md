@@ -54,7 +54,13 @@ The features with the most importance on the Random Forrest Classifier were:
 ![image](https://github.com/panstenos/Credit-Fraud-Detection/assets/112823396/46880a4d-8180-4fb7-a5ae-433bc45c87b8)
 
 
-For the last model, two new columns were created: 'diffbalanceDest' = 'newbalanceDest' - 'oldbalanceDest', and 'diffbalanceOrig = 'newbalanceOrig' - 'oldbalanceOrg'. The new feature importances following this change were: 
+For the last model, two new columns were created: 
+
+'diffbalanceDest' = 'newbalanceDest' - 'oldbalanceDest',
+
+'diffbalanceOrig = 'newbalanceOrig' - 'oldbalanceOrg'.
+
+The new feature importances following this change were: 
 
 ![image](https://github.com/panstenos/Credit-Fraud-Detection/assets/112823396/a0aff5f8-54a9-46e0-af56-dcec94f39739)
 
